@@ -1,0 +1,6 @@
+concepts = ['queues', 'graphs', 'stacks', 'recursion', 'dijkstra\'s algorithm']
+
+# Write code below 💖
+  
+concepts.sort()
+print(concept)
